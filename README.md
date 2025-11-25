@@ -1,1 +1,2 @@
-# Florea_Tudor_ProiectTW
+Proiect Tehnologii Web: "Notite privind lectiile invatate din proiecte software (integrare cu GitHub)" - numarul 16
+Proiectul urmărește colectarea, organizarea și valorizarea lecțiilor învățate din proiecte software reale, astfel încât echipele să poată evita repetarea acelorași greșeli și să adopte mai rapid practici eficiente. În cadrul proiectului sunt analizate experiențe din ciclul complet de dezvoltare — planificare, design, implementare, testare și mentenanță. Notițele vizează atât aspecte tehnice, cât și elemente legate de colaborare, comunicare și managementul proiectelor.
